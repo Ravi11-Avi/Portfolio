@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "category": "Project",
+        "title": "Clone Jio Cinema",
+        "description": "A clone of Jio Cinema made using React, CSS, and Express.js API.",
+        "details":"In building the JioCinema clone using React, I deepened my understanding of component-based architecture and state management. This project allowed me to structure scalable UI and efficiently manage user interactions.",
+        "media": [
+            { "type": "image", "src": "/media/Slider Img/Jio Cinema/JioCinemaM.jpg" },
+            { "type": "video", "src": "/media/Slider Img/Jio Cinema/JioCinemaVideo.mp4" },
+            { "type": "image", "src": "/media/Slider Img/Jio Cinema/JioCinema1.jpeg" },
+            { "type": "image", "src": "/media/Slider Img/Jio Cinema/JioCinema2.jpeg" },
+            { "type": "image", "src": "/media/Slider Img/Jio Cinema/JioCinema3.jpeg" },
+            { "type": "image", "src": "/media/Slider Img/Jio Cinema/JioCinema4.jpeg" },
+            { "type": "image", "src": "/media/Slider Img/Jio Cinema/JioCinema5.jpeg" }
+        ],
+        "languages": ["React JS",  "API"],
+        "github": "https://github.com/Ravi11-Avi/Jio-Cinema-clone-with-React",
+        "liveDemo": ""
+    },
+    {
+        "id": 2,
+        "category": "Project",
+        "title": "Weather App",
+        "description": "A weather app where you can check the weather and time of your location.",
+        "details":"I developed a Weather App using JavaScript that fetches real-time weather data based on user input. This project helped solidify my understanding of working with third-party APIs and updating the UI dynamically.",
+        "media": [
+            { "type": "image", "src": "/media/slider img/weather/weather ss.png" }
+        ],
+        "languages": ["HTML", "CSS", "JavaScript", "API"],
+        "github": "https://github.com/Ravi11-Avi/weather-location-app",
+        "liveDemo": "https://ravi11-avi.github.io/weather-location-app/"
+    },
+    {
+        "id": 3,
+        "category": "Game",
+        "title": "Tic-Tac-Toe",
+        "description": "A simple Tic-Tac-Toe game built with JavaScript.",
+        "details":"I created a fully interactive Tic-Tac-Toe game using vanilla JavaScript. This project helped reinforce logic building, DOM manipulation, and handling user interactions.",
+        "media": [
+            { "type": "image", "src": "/media/Slider img/Tic Tak Toe/tictac.png" },
+            { "type": "video", "src": "/media/Slider img/Tic Tak Toe/ticracV.mp4" }
+        ],
+        "iframe": "https://ravi11-avi.github.io/Tic-Tac-Toe/",
+        "languages": ["HTML", "CSS", "JavaScript"],
+        "github": "https://github.com/Ravi11-Avi/Tic-Tac-Toe"
+    },
+    {
+        "id": 4,
+        "category": "Mini-Project",
+        "title": "Quiz Game",
+        "description": "A simple Quiz Game.",
+        "details":"I developed an interactive Quiz Game using JavaScript to test users with multiple-choice questions. It enhanced my skills in managing dynamic data and user flow.",
+        "media": [
+            { "type": "image", "src": "/media/Slider img/Quiz/1.jpg" },
+            { "type": "image", "src": "/media/Slider img/Quiz/2.jpg" },
+            { "type": "image", "src": "/media/Slider img/Quiz/3.jpg" },
+            { "type": "image", "src": "/media/Slider img/Quiz/4.jpg" },
+            { "type": "image", "src": "/media/Slider img/Quiz/5.jpg" }
+        ],
+        "iframe": "https://ravi11-avi.github.io/Quiz-Game/",
+        "languages": ["HTML", "CSS", "JavaScript"],
+        "github": "https://github.com/Ravi11-Avi/Quiz-Game"
+    },
+    {
+        "id": 5,
+        "category": "Mini-Project",
+        "title": "Audio Player WebApp",
+        "description": "A simple playing recored audio web app.",
+        "details":"",
+        "media": [
+            
+            { "type": "image", "src": "/media/Slider img/Audio/1.png" }
+        ],
+        "iframe": "https://ravi11-avi.github.io/music_webapp/",
+        "languages": ["HTML", "CSS", "JavaScript"],
+        "github": "https://github.com/Ravi11-Avi/music_webapp"
+    },
+    {
+        "id": 6,
+        "category": "Project",
+        "title": "Bookify",
+        "description": "Its a Online Book Store Web-App",
+        "details":"Bookify is a book management web app built with React, Vite, and Firebase. It features a search function to find books easily, along with the ability to add new books. Users can place and cancel orders, while admins have control to accept or reject orders. Powered by Firebase for authentication and real-time data handling, Bookify delivers a smooth and responsive experience.",
+        "media": [
+            
+            { "type": "image", "src": "/media/Slider img/Bookify/Bookify 1.png" },
+            { "type": "image", "src": "/media/Slider img/Bookify/Bookify 2.png" },
+            { "type": "image", "src": "/media/Slider img/Bookify/Bookify 3.png" },
+            { "type": "image", "src": "/media/Slider img/Bookify/Bookify 4.png" }
+        ],
+        "liveDemo": "https://bookify-7f45b.web.app/",
+        "languages": ["React", "Vite", "TailwindCss","Firebase"],
+        "github": "https://github.com/Ravi11-Avi/Bookify"
+    },
+    {
+        "id": 7,
+        "category": "Project",
+        "title": "ChitChat-X",
+        "description": "Its a Online Chat Web-App",
+        "details":"ChitChat-X is a fast, real-time chat app built with React, Vite, Firebase & TailwindCSS. It offers OTP/Google login, instant messaging, user search, and profile updates—all in a mobile-friendly design. The tech stack ensures speed and scalability, while Firebase handles auth and real-time data. Lessons learned include dynamic image imports and optimized routing. A clean, efficient solution for modern chatting! 🚀",
+        "media": [
+            
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/1.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/2.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/3.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/4.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/5.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/6.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/7.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/8.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/9.png" },
+            { "type": "image", "src": "/media/Slider img/ChitChat-X/10.png" }
+        ],
+        "liveDemo": "https://chitchat-x.web.app",
+        "languages": ["React", "Vite", "TailwindCss","Firebase"],
+        "github": "https://github.com/Ravi11-Avi/ChitChat-X"
+    }
+]

@@ -1,0 +1,43 @@
+
+[
+    {
+        "id": 1,
+        "title": "Dreamy Landscape",
+        "image": "/media/Digital Art/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Cyberpunk City",
+        "image": "/media/Digital Art/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cyberpunk City",
+        "image": "/media/Digital Art/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Cyberpunk City",
+        "image": "/media/Digital Art/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cyberpunk City",
+        "image": "/media/Digital Art/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Cyberpunk City",
+        "image": "/media/Digital Art/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Cyberpunk City",
+        "image": "/media/Digital Art/7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Futuristic Portrait",
+        "image": "/media/Digital Art/8.jpg"
+    }
+]

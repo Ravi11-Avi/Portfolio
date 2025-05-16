@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <a href=""><img src="media/logo.png" class="logo1" alt=""></a>
+        </div>
+        <div class="menu">
+            <ul>
+                <li><a href="#" onclick="HomeSection()">Home</a></li>
+                <li><a href="#" onclick="AboutMeSection()">About Me</a></li>
+                <li><a href="#" onclick="WorkSection()">Works</a></li>
+                <li><a href="#" onclick="MySkillSection()">My Skills</a></li>
+                <li><a href="#" onclick="ExpSction()">Experience</a></li>
+                <li><a href="#"  onclick="contactUsSection()">Contact</a></li>
+            </ul>
+        </div>
+        <div class="time">
+            <div id="clock" class="light">
+                <div class="display">
+                    <div class="weekdays"></div>
+                    <div class="ampm"></div>
+                    <div class="digits"></div>
+                </div>
+            </div> 
+        </div>
+            
+    </div>
+    <div class="contain" >
+        <div class="Home" id="home">
+            <div class="widget">
+                <!-- widget -->
+            </div>
+            <div class="short-intro">
+                <div class="mini-into">
+                    <h1 style="font-family:Monospace, Monaco;">Hi,</h1>
+                    <h1>I'm <span>RAVI, </span></h1>
+                    <h1 style="font-size: 80px;">Web Developer</h1>
+                    <p>Fontent Developer | Backend Builder</p>
+                    <h5>A Computer Application enthusiast with a hunger for coding and a talent for solving problems. I thrive on transforming concepts into functional tech solutions and am eager to grow in a dynamic IT landscape.</h5>
+                </div>
+                <div class="Contact">
+                    <div class="social-media">
+                        <ul>
+                            <li><a href="https://x.com/Ravi_Avi11"><video src="/media/X.mp4" loop autoplay muted playsinline preload="auto"></video></a></li>
+                            <li><a href="https://www.linkedin.com/in/ravi-ranjan-bhakt-75a286354/"><video src="/media/Linkindin.mp4" loop autoplay muted playsinline preload="auto"></video></a></li>
+                            <li><a href="https://www.instagram.com/i_willmake_u/"><video src="/media/Instagram.mp4" loop autoplay muted  playsinline preload="auto"></video></a></li>
+                            <li><a href="https://github.com/Ravi11-Avi"><img src="/media/GIThub.gif" class="git-icon1"/></a></li>
+
+                       
+                        </ul>
+                        
+                    </div>
+                    <!-- <button><span>Contact Me</span></button> -->
+                    <div class="Contact-me-button"  onclick="contactUsSection()">
+
+                        <a class="dazzle fluid" href="#">
+                            <svg aria-hidden="true"  viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                                <path d="M93.781 51.578C95 50.969 96 49.359 96 48c0-1.375-1-2.969-2.219-3.578 0 0-22.868-1.514-31.781-10.422-8.915-8.91-10.438-31.781-10.438-31.781C50.969 1 49.375 0 48 0s-2.969 1-3.594 2.219c0 0-1.5 22.87-10.406 31.781-8.908 8.913-31.781 10.422-31.781 10.422C1 45.031 0 46.625 0 48c0 1.359 1 2.969 2.219 3.578 0 0 22.873 1.51 31.781 10.422 8.906 8.911 10.406 31.781 10.406 31.781C45.031 95 46.625 96 48 96s2.969-1 3.562-2.219c0 0 1.523-22.871 10.438-31.781 8.913-8.908 31.781-10.422 31.781-10.422Z" fill="#000"/>
+                            </svg>
+                            <svg aria-hidden="true"  viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M93.781 51.578C95 50.969 96 49.359 96 48c0-1.375-1-2.969-2.219-3.578 0 0-22.868-1.514-31.781-10.422-8.915-8.91-10.438-31.781-10.438-31.781C50.969 1 49.375 0 48 0s-2.969 1-3.594 2.219c0 0-1.5 22.87-10.406 31.781-8.908 8.913-31.781 10.422-31.781 10.422C1 45.031 0 46.625 0 48c0 1.359 1 2.969 2.219 3.578 0 0 22.873 1.51 31.781 10.422 8.906 8.911 10.406 31.781 10.406 31.781C45.031 95 46.625 96 48 96s2.969-1 3.562-2.219c0 0 1.523-22.871 10.438-31.781 8.913-8.908 31.781-10.422 31.781-10.422Z" fill="#000" />
+                          </svg>
+                          <svg aria-hidden="true"  viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                            <path d="M93.781 51.578C95 50.969 96 49.359 96 48c0-1.375-1-2.969-2.219-3.578 0 0-22.868-1.514-31.781-10.422-8.915-8.91-10.438-31.781-10.438-31.781C50.969 1 49.375 0 48 0s-2.969 1-3.594 2.219c0 0-1.5 22.87-10.406 31.781-8.908 8.913-31.781 10.422-31.781 10.422C1 45.031 0 46.625 0 48c0 1.359 1 2.969 2.219 3.578 0 0 22.873 1.51 31.781 10.422 8.906 8.911 10.406 31.781 10.406 31.781C45.031 95 46.625 96 48 96s2.969-1 3.562-2.219c0 0 1.523-22.871 10.438-31.781 8.913-8.908 31.781-10.422 31.781-10.422Z" fill="#000" />
+                          </svg>
+                          <svg aria-hidden="true"  viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                            <path d="M93.781 51.578C95 50.969 96 49.359 96 48c0-1.375-1-2.969-2.219-3.578 0 0-22.868-1.514-31.781-10.422-8.915-8.91-10.438-31.781-10.438-31.781C50.969 1 49.375 0 48 0s-2.969 1-3.594 2.219c0 0-1.5 22.87-10.406 31.781-8.908 8.913-31.781 10.422-31.781 10.422C1 45.031 0 46.625 0 48c0 1.359 1 2.969 2.219 3.578 0 0 22.873 1.51 31.781 10.422 8.906 8.911 10.406 31.781 10.406 31.781C45.031 95 46.625 96 48 96s2.969-1 3.562-2.219c0 0 1.523-22.871 10.438-31.781 8.913-8.908 31.781-10.422 31.781-10.422Z" fill="#000"/>
+                          </svg>
+                          <svg aria-hidden="true"  viewBox="0 0 96 96" fill="none"  xmlns="http://www.w3.org/2000/svg" >
+                            <path d="M93.781 51.578C95 50.969 96 49.359 96 48c0-1.375-1-2.969-2.219-3.578 0 0-22.868-1.514-31.781-10.422-8.915-8.91-10.438-31.781-10.438-31.781C50.969 1 49.375 0 48 0s-2.969 1-3.594 2.219c0 0-1.5 22.87-10.406 31.781-8.908 8.913-31.781 10.422-31.781 10.422C1 45.031 0 46.625 0 48c0 1.359 1 2.969 2.219 3.578 0 0 22.873 1.51 31.781 10.422 8.906 8.911 10.406 31.781 10.406 31.781C45.031 95 46.625 96 48 96s2.969-1 3.562-2.219c0 0 1.523-22.871 10.438-31.781 8.913-8.908 31.781-10.422 31.781-10.422Z" fill="#000"/>
+                          </svg>
+                            <span class="fluid" >Contact Me!</span>
+                            <span class="fluid" aria-hidden="true">Contact Me!</span>
+                          </a>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="image-of-me">
+                <img src="/media/me.png" alt="qkl">
+
+   
+            </div>
+            
+        </div>
+        <div class="About-me" id="About-me">
+            <h1 class="single-word" > About Me </h1>
+            <div class="About-me-Content">
+                <p>I’m Ravi Ranjan Bakt, a passionate web developer who loves crafting user-friendly, responsive websites from ideas. I focus on clean code and smooth functionality to create visually appealing, high-performing designs. As a fresh coder, I’m excited to grow and take on new challenges—explore my projects to see more!</p>
+                <div class="social-media2">
+                    <ul>
+                        <li><a href="https://x.com/Ravi_Avi11"><video src="/media/X.mp4" loop autoplay muted  playsinline preload="auto"></video></a></li>
+                        <li><a href="https://www.linkedin.com/in/ravi-ranjan-bhakt-75a286354/"><video src="/media/Linkindin.mp4" loop autoplay muted playsinline preload="auto"></video></a></li>
+                        <li><a href="https://www.instagram.com/i_willmake_u/"><video src="/media/Instagram.mp4" loop autoplay muted playsinline  preload="auto"></video></a></li>
+                        <li><a href="https://github.com/Ravi11-Avi"><img src="/media/GIThub.gif" class="git-icon2"/></a></li>
+
+                    </ul>
+                    <button class="Resume-Button" onclick="DownloadResume()">Resume
+                        <img src="media/download icon.gif" alt="">
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="Works" id="Works">
+            <h1 class="title-work">Works and Projects</h1>
+
+            <div class="project-Menu">
+                <ul>
+                    <li><a href=""  class="filter-btn"  data-category="all">         All </a></li>
+                    <li><a href=""  class="filter-btn"  data-category="Project">     Project</a></li>
+                    <li><a href=""  class="filter-btn"  data-category="Mini-Project">Mini-Project</a></li>
+                    <li><a href=""  class="filter-btn"  data-category="Game">        Game</a></li>
+                    <li><a href=""  class="filter-btn"  data-category="UI-UX">       UI/UX</a></li>
+                </ul>
+            </div>
+
+
+            <section class="projects">
+                <div class="project-container">
+                    <!-- Dynamic project cards will be inserted here by JavaScript -->
+                </div>
+            </section>
+            
+        
+            <!-- Popup for Project & UI-UX -->
+            <div id="popup" class="popup">
+                <div class="popup-content">
+                    <span class="close" onclick="closePopup()">&times;</span>
+                    <div class="popup-show"></div>
+                    <div class="popup-details"></div>
+                </div>
+            </div>
+        
+            <!-- Live Popup for Game & Mini-Project -->
+            <div id="live-popup" class="live-popup">
+                <div class="live-popup-content">
+                    <span class="live-close" onclick="closePopupLive()">&times;</span>
+                    <div class="live-popup-show"></div>
+                    <div class="live-popup-details"></div>                </div>
+            </div>
+
+        </div>
+
+
+
+        <div class="My-Skills" id="My-Skills">
+            <h1 class="My-Skills-title">Skills & Technologies</h1>
+            <div class="skills-container">
+                <li><img src="/media/Language/HTML.png" alt=""></li>
+                <li><img src="/media/Language/CSS.png" alt=""></li>
+                <li><img src="/media/Language/JS.png" alt=""></li>
+                <li><img src="/media/Language/MYSQL.png" alt=""></li>
+                <li><img src="/media/Language/Mariya DB.png" alt=""></li>
+                <li><img src="/media/Language/PHP.png" alt=""></li>
+                <li><img src="/media/Language/REACT.png" alt=""></li>
+                <li><img src="/media/Language/TAILWIND CSS.png" alt=""></li>
+         
+            </div>
+         
+        </div>
+
+        <div class="My-Skills" id="Tools">
+            <h1 class="My-Skills-title">Tools</h1>
+            <ul class="skills-container">
+              <li><img src="/media/Language/GIT.png" alt="Git"></li>
+              <li><img src="/media/Language/GITHUB.png" alt="GitHub"></li>
+              <li><img src="/media/Language/VITE.png" alt="Vite"></li>
+              <li><img src="/media/Language/Figma.png" alt="Figma"></li>
+              <li><img src="/media/Language/Firebase.png" alt="Firebase"></li>
+            </ul>
+          </div>
+          
+          <div class="My-Skills" id="AI-Tools">
+            <h1 class="My-Skills-title">AI Tools</h1>
+            <ul class="skills-container">
+              <li><img src="/media/Language/ChatGPT.png" alt="ChatGPT"></li>
+              <li><img src="/media/Language/Meta.png" alt="Meta AI"></li>
+              <li><img src="/media/Language/DeepSeekAI.png" alt="DeepSeek AI"></li>
+              <li><img src="/media/Language/Grok.png" alt="Grok"></li>
+              <li><img src="/media/Language/Pieces.png" alt="Pieces AI"></li>
+            </ul>
+          </div>
+          
+          
+
+        <div class="experience" id="exprince">
+            <h1 class="certificate-title">Certificates</h1>
+            <div class="exp-certificate">
+                <ul id="Certificate-head">
+                    <li data-category="all">All</li>
+                    <li data-category="experience">Intership And Experience</li>
+                    <li data-category="bootcamp">Bootcamp</li>
+                    <li data-category="course">Courses</li>
+                </ul>
+            </div>
+        
+            <div id="content-container" class="content-container"></div>
+            <div id="popup-modal" class="modal">
+                <div class="modal-content">
+                    <span id="close-modal">&times;</span>
+                    <div id="modal-content"></div>
+                </div>
+            </div>
+        </div>
+        <div class="contact">
+            
+            <div class="contact-us-container">
+                <div>
+                    <h1>Contact Me</h1>
+                    <div class="social-media3">
+                        <h4>Connect With Me On:</h4>
+                        <ul>
+                            <li><a href="https://x.com/Ravi_Avi11"><video src="/media/X.mp4" loop autoplay muted  playsinline preload="auto"></video></a></li>
+                            <li><a href="https://www.linkedin.com/in/ravi-ranjan-bhakt-75a286354/"><video src="/media/Linkindin.mp4" loop autoplay muted playsinline preload="auto"></video></a></li>
+                            <li><a href="https://www.instagram.com/i_willmake_u/"><video src="/media/Instagram.mp4" loop autoplay muted playsinline  preload="auto"></video></a></li>
+                            <li><a href="https://github.com/Ravi11-Avi"><img src="/media/GIThub.gif" loop autoplay muted playsinline  preload="auto"/></a></li>
+                    
+                        </ul>
+                    </div>
+                </div>
+                <div class="contact-me" id="contact-me">
+                   
+                    <section class="cta-section">
+                        <h2>Let's Work Together!</h2>
+                        <p>Have a project in mind? Feel free to reach out.</p>
+                        <button id="contactBtn">Contact Me</button>
+                    </section>
+
+
+
+                    <div class="contact-container" id="contact-container">
+                        <h3>Share Your Opinion</h3>
+                        <form id="contact-form">
+                            <input type="text" id="name" placeholder="Your Name" required>
+                            <input type="email" id="email" placeholder="Your Email" required>
+                            <textarea id="message" placeholder="Your Message" required></textarea>
+                            <button type="submit" class="send-btn">Send Email</button>
+                        </form>
+                        <p id="status-message"></p> <!-- Success/Error message -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="blogs">
+            <h1 class="Blog-title">Blogs</h1>
+            <div class="blogs-menu">
+                <button id="Recent">Recent</button>
+                <button id="Bloges">Bloges</button>
+                <button id="Digital-Art">Digital-Art</button>
+            </div>
+
+
+            <div id="blog-content-container"></div>
+
+            <div id="blog-popup">
+                <span id="blog-popup-close">&times;</span>
+                <div id="blog-popup-content">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-logo">
+                <h2 ><img src="media/logo.png" class="logo2" alt=""></h2>
+            </div>
+            <div class="footer-links">
+            <a href="#" onclick="HomeSection()">Home</a>
+            <a href="#" onclick="AboutMeSection()">About Me</a>
+            <a href="#" onclick="WorkSection()">Works</a>
+            <a href="#" onclick="MySkillSection()">My Skills</a>
+            <a href="#" onclick="ExpSection()">Experience</a>
+            <a href="#" onclick="contactUsSection()">Contact</a>
+            </div>
+            <div class="footer-social">
+                <a href="https://x.com/Ravi_Avi11"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.instagram.com/i_willmake_u/"><i class="fab fa-instagram"></i></a>
+                <a href="https://github.com/Ravi11-Avi"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/ravi-ranjan-bhakt-75a286354/"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          
+        </div>
+    </footer>
+    
+
+
+
+
+
+
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.0.0/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="script.js"></script>   
+</body>
+</html>

@@ -1,0 +1,92 @@
+{
+    "experience": [
+        {
+            "title": "PHP and MySql Project",
+            "image": "media/Certificates/Internship1.jpg",
+            
+            "company": "DataSpace Academy",
+            "duration": "Jan 2024 - Mar 2024",
+            "description": "Worked on PHP and SQL projects, improved UI/UX, and implemented APIs and learn about how servers works.",
+            "keypoint1":"✓ Successfully completed an internship project in PHP and MySQL.",
+            "keypoint2":" ✓ Gained hands-on experience in database management and backend development."
+        }
+    ],
+    "bootcamp": [
+        {
+            "title": "React Bootcamp",
+            "image": "media/Certificates/React BootStrap Lets UPgrade.jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "I recently completed a React Bootcamp, where I learned how to build modern and dynamic web applications using React.js. This bootcamp provided a hands-on, project-based approach, helping me understand both the fundamentals and advanced concepts of React.",
+             "keypoint1":"✓ Component-Based Architecture – Learned how to break down UIs into reusable components for better maintainability.",
+            "keypoint2":" ✓ State Management with Hooks – Mastered useState & useEffect to handle dynamic data efficiently."
+        },
+        {
+            "title": "Git and Github Bootcamp",
+            "image": "media/Certificates/Git and Github.jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "The Git & GitHub Bootcamp was an in-depth learning experience where I explored version control, collaboration, and repository management. This bootcamp helped me understand how developers use Git for tracking changes and GitHub for managing projects efficiently.",
+             "keypoint1":"✓ Git Fundamentals – Learned essential commands like git init, git commit, git branch, git merge, and lot more and how to handle version history.",
+            "keypoint2":" ✓  Collaborating with GitHub – Understood pull requests, forks, issues, and working with teams using GitHub repositories."
+        },
+        {
+            "title": "Postman API Fundamentals Student Expert",
+            "image": "media/Certificates/PostmanAPI bootcamp.jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "The Postman API Fundamentals Student Expert program is a hands-on certification that teaches the essentials of API development, testing, and documentation using Postman. It provides practical experience in sending requests, handling responses, and automating API workflows.",
+             "keypoint1":"✓ Mastering API Requests & Responses – Learned how to send GET, POST, PUT, and DELETE requests and analyze API responses.",
+            "keypoint2":" ✓ Automating API Testing – Used Pre-Requests & Tests Scripts in Postman to automate API validation and debugging."
+        },
+        {
+            "title": "HTML and CSS Bootcamp ",
+            "image": "media/Certificates/HTML and CSS Bootcamp .jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "The HTML & CSS Bootcamp was a great journey into web development, where I learned how to create beautiful and responsive web pages from scratch. This bootcamp helped me understand the structure and styling of modern websites.",
+             "keypoint1":"✓  Building Structured Web Pages – Learned how to use HTML elements, forms, tables, and semantic tags to create well-structured layouts.",
+            "keypoint2":" ✓  Styling with CSS – Mastered flexbox, grid, animations, and responsive design to make websites visually appealing and mobile-friendly."
+        },
+        {
+            "title": "GenAI 101 with Pieces",
+            "image": "media/Certificates/GenAI 101 with Pieces .jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "The GenAI 101 with Pieces course introduced me to the fundamentals of Generative AI (GenAI) and how it can be leveraged for software development, automation, and creativity. It provided hands-on insights into using AI-powered tools efficiently.",
+             "keypoint1":"✓  Understanding Generative AI – Learned how AI models generate text, images, and code, and their impact on different industries.",
+            "keypoint2":" ✓   Enhancing Productivity with AI – Explored how Pieces for Developers can optimize workflows by integrating AI-assisted coding and automation."
+        },
+        {
+            "title": "Java Script",
+            "image": "media/Certificates/Java Script.jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "Although I had prior experience with JavaScript, the bootcamp helped reinforce my foundational knowledge and introduced best practices for modern development. It focused on writing cleaner, modular code and understanding how JavaScript interacts with the DOM and APIs.",
+            "keypoint1":"✓  Improved understanding of asynchronous JavaScript using fetch, async/await, and Promises.",
+            "keypoint2":"✓  Learned to build interactive UIs by manipulating the DOM and handling events efficiently."
+        },
+        {
+            "title": "Figma Bootcamp",
+            "image": "media/Certificates/Figma Bootcamp .jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "The Figma Bootcamp was an exciting dive into UI/UX design, where I learned how to create modern, user-friendly, and responsive interfaces. This bootcamp helped me understand the design workflow from wireframing to prototyping.",
+            "keypoint1":"✓  Mastering Figma Tools – Learned how to use frames, components, auto-layout, and design systems for efficient UI design.",
+            "keypoint2":"✓  Prototyping & Collaboration – Explored interactive prototypes and how to collaborate with teams using Figma’s real-time design features"
+        }
+    ],
+    "course": [
+        {
+            "title": " Python for Data Science, AI & Development",
+            "image": "media/Certificates/Python IBM course.jpg",
+            "platform": " IBM",
+            "year": "2024",
+            "description": "Before starting this course, I had basic knowledge of Python, but I wanted to explore how it’s used in Data Science and AI. This course gave me a clear roadmap and hands-on practice to apply Python in real-world scenarios.",
+            "keypoint1":"✓ Data Handling with Pandas & NumPy – Learned how to manipulate, clean, and analyze datasets efficiently",
+            "keypoint2":" ✓ Data Visualization with Matplotlib – Gained skills to create insightful visualizations for better data interpretation."
+        
+        }
+       
+    ]
+}

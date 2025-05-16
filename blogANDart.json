@@ -1,0 +1,74 @@
+{
+  "Blogs": [
+    {
+      "title": "React Project",
+      "image": "media/Language/REACT.png",
+      "content": "Started to learn React",
+      "author": "Me",
+      "moredetails": "Shifting from HTML to React offers key benefits: React’s component-based structure promotes reusability, reducing code duplication. It uses a Virtual DOM for faster performance by only updating changed elements. State management is simplified with useState, and navigation becomes smoother with React Router in Single Page Applications (SPA). Modern tools like Vite and Webpack enhance the development process, making it faster and more efficient. Plus, React’s vast ecosystem and community support help you build scalable applications easily.",
+      "year": 2025
+    },
+    {
+      "title": "Tailwind CSS is Better",
+      "image": "media/Blogs/blog2.jpg",
+      "content": "Leaning to switching from CSS to TailwindCSS",
+      "author": "Me",
+      "moredetails": "Tailwind CSS isn't necessarily better in every case, but it offers significant advantages for many modern web development projects. Whether you need speed, consistency, scalability, or performance, Tailwind provides a powerful, flexible solution. Its utility-first approach allows for rapid development, easy maintenance, and responsive design without the headaches of traditional CSS.",
+      "year": 2025
+    },
+    {
+      "title": "Created New Project",
+      "image": "media/Slider Img/Bookify/Bookify 1.png",
+      "content": "Created First Project with Firebase - Bookify",
+      "author": "Me",
+      "moredetails": "Building a web app from scratch is a rewarding experience, and I’m excited to share the journey of creating Bookify, my first web app. Using the power of React, Vite, Tailwind CSS, and Firebase, I was able to build and deploy this app to Firebase in no time. In this blog post, I’ll walk you through the process of building Bookify and its core features, which include order management, search functionality, and Google authentication.",
+      "year": 2025
+    },
+    {
+      "title": "Web Chat App",
+      "image": "media/Blogs/ChitChat-X.png",
+      "content": "Created Project with Firebase - ChitChat-X",
+      "author": "Me",
+      "moredetails": "ChitChat-X is a modern, realtime chat app built with React, Firebase, and TailwindCSS, featuring OTP authentication, Google login, and seamless messaging. Designed to be fully responsive, it works flawlessly on both mobile and desktop.",
+      "year": 2025
+    }
+    ],
+  "Art": [
+    {
+      "title": "Art 1",
+      "image": "media/Digital Art/1.jpg",
+      
+      "year": 2021
+    },
+    {
+      "title": "Art 2",
+      "image": "media/Digital Art/2.jpg",
+      
+      "year": 2022
+    },
+    {
+      "title": "Art 3",
+      "image": "media/Digital Art/3.jpg",
+      
+      "year": 2021
+    },
+    {
+      "title": "Art 4",
+      "image": "media/Digital Art/4.jpg",
+      
+      "year": 2021
+    },
+    {
+      "title": "Art 5",
+      "image": "media/Digital Art/5.jpg",
+      
+      "year": 2021
+    },
+    {
+      "title": "Art 6",
+      "image": "media/Digital Art/6.jpg",
+      
+      "year": 2021
+    }
+  ]
+}
