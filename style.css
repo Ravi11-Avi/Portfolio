@@ -1,7 +1,6 @@
 body{
     background:rgb(40, 40, 43) ;
     margin: 0;
-    overflow-x:hidden;
     width: 100%;
    
     box-sizing: border-box;
@@ -108,6 +107,7 @@ body{
     box-sizing: border-box;
  
 	display: flex;
+  overflow: hidden;
     padding: 0 3cqmax 0 0 ;
     flex-direction: column;
 	position:relative;
@@ -2449,6 +2449,7 @@ textarea:focus {
 
 /* Footer Styling */
 footer {
+  display: block;
   background: #000;
   color: #fff;
   padding: 40px 0;
