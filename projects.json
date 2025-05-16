@@ -25,7 +25,7 @@
         "description": "A weather app where you can check the weather and time of your location.",
         "details":"I developed a Weather App using JavaScript that fetches real-time weather data based on user input. This project helped solidify my understanding of working with third-party APIs and updating the UI dynamically.",
         "media": [
-            { "type": "image", "src": "media/slider Img/weather/weather ss.png" }
+            { "type": "image", "src": "media/Slider Img/weather/weather ss.png" }
         ],
         "languages": ["HTML", "CSS", "JavaScript", "API"],
         "github": "https://github.com/Ravi11-Avi/weather-location-app",
