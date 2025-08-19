@@ -74,6 +74,15 @@
             "description": "The Figma Bootcamp was an exciting dive into UI/UX design, where I learned how to create modern, user-friendly, and responsive interfaces. This bootcamp helped me understand the design workflow from wireframing to prototyping.",
             "keypoint1":"✓  Mastering Figma Tools – Learned how to use frames, components, auto-layout, and design systems for efficient UI design.",
             "keypoint2":"✓  Prototyping & Collaboration – Explored interactive prototypes and how to collaborate with teams using Figma’s real-time design features"
+        },
+        {
+            "title": "DSA with JAVA",
+            "image": "media/Certificates/DSA with JAVA.jpg",
+            "provider": "Lets UPgrade",
+            "year": "2025",
+            "description": "I successfully completed a Java Certification under FDSA, where I gained strong knowledge of object-oriented programming and core Java concepts. This certification helped me build a solid foundation for developing reliable, secure, and scalable applications.",             
+            "keypoint1": "✓ Object-Oriented Programming – Learned the principles of encapsulation, inheritance, polymorphism, and abstraction in Java.",
+            "keypoint2": "✓ Core Java & Collections – Gained practical experience with data types, loops, arrays, exceptions, and Java Collections framework for efficient data handling."
         }
     ],
     "course": [

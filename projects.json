@@ -115,5 +115,20 @@
         "liveDemo": "https://chitchat-x.web.app",
         "languages": ["React", "Vite", "TailwindCss","Firebase"],
         "github": "https://github.com/Ravi11-Avi/ChitChat-X"
+    },
+    {
+        "id": 9,
+        "category": "Project",
+        "title": "Mistry-AI",
+        "description": "An AI-powered chatbot built using Google's Gemini API. It provides real-time responses.",
+        "details":"Gemini-ChatBot is a modern conversational AI app built with React (frontend) and Node.js + Express (backend). It uses Google's Gemini API for generating intelligent, context-aware responses. Features include a mobile-friendly chat UI, role-based messages (user/bot), and secure API key handling. Extendable with Firebase for authentication and chat history storage. 🚀",
+        "media": [
+            
+            { "type": "image", "src": "media/Slider Img/mistry/mistry1.jpg" },
+            { "type": "image", "src": "media/Slider Img/mistry/mistry2.jpg" }
+        ],
+        "liveDemo": "https://ravi11-avi.github.io/MystrixAI/",
+        "languages": ["HTML", "CSS", "API","Java Script"],
+        "github": "https://github.com/Ravi11-Avi/MystrixAI"
     }
 ]
