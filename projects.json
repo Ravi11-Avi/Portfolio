@@ -130,5 +130,24 @@
         "liveDemo": "https://ravi11-avi.github.io/MystrixAI/",
         "languages": ["HTML", "CSS", "API","Java Script"],
         "github": "https://github.com/Ravi11-Avi/MystrixAI"
+    },
+    {
+        "id": 10,
+        "category": "Project",
+        "title": "Sales Dashboard",
+        "description": "An interactive Streamlit app for visualizing cake sales, comparing products, and tracking trends with customizable themes.",
+        "details":"The Cake Sales Dashboard is an interactive data visualization application built with Python and Streamlit.It provides real-time insights into cake sales performance, helping users monitor total sales, analyze product trends, and compare performance across different time periods.",
+        "media": [
+            
+            { "type": "image", "src": "media/Slider Img/Dashboard/Dashboard1.png" },
+            { "type": "image", "src": "media/Slider Img/Dashboard/Dashboard2.png" },
+            { "type": "image", "src": "media/Slider Img/Dashboard/Dashboard3.png" },
+            { "type": "image", "src": "media/Slider Img/Dashboard/Dashboard4.png" },
+            { "type": "image", "src": "media/Slider Img/Dashboard/Dashboard5.png" }
+            
+        ],
+        "liveDemo": "https://ravi11-avi-sellesdashboard-app-yscthc.streamlit.app/",
+        "languages": ["Python"],
+        "github": "https://github.com/Ravi11-Avi/Sellesdashboard"
     }
 ]
