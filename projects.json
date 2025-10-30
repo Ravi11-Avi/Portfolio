@@ -65,16 +65,16 @@
     {
         "id": 5,
         "category": "Mini-Project",
-        "title": "Audio Player WebApp",
-        "description": "A simple playing recored audio web app.",
+        "title": "Airport Route Founder",
+        "description": "Finding the sortest path of plane from orgin to destination.",
         "details":"",
         "media": [
             
-            { "type": "image", "src": "media/Slider Img/Audio/1.png" }
+            { "type": "image", "src": "media/Slider Img/Airport/image.png" }
         ],
-        "iframe": "https://ravi11-avi.github.io/music_webapp/",
-        "languages": ["HTML", "CSS", "JavaScript"],
-        "github": "https://github.com/Ravi11-Avi/music_webapp"
+        "iframe": "https://airportroutefinder.onrender.com/",
+        "languages": ["HTML", "CSS", "JavaScript", "Pyhton - Flash"],
+        "github": "https://github.com/Ravi11-Avi/AirportRouteFinder"
     },
     {
         "id": 6,
@@ -147,7 +147,7 @@
             
         ],
         "liveDemo": "https://ravi11-avi-sellesdashboard-app-yscthc.streamlit.app/",
-        "languages": ["Python"],
+        "languages": ["Python - Streamlit"],
         "github": "https://github.com/Ravi11-Avi/Sellesdashboard"
     }
 ]
