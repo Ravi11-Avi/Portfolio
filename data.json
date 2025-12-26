@@ -95,7 +95,34 @@
             "keypoint1":"✓ Data Handling with Pandas & NumPy – Learned how to manipulate, clean, and analyze datasets efficiently",
             "keypoint2":" ✓ Data Visualization with Matplotlib – Gained skills to create insightful visualizations for better data interpretation."
         
+        },
+        {
+            "title": "Amazon CloudWatch – Getting Started",
+            "image": "media/Certificates/AWS Watchcloud.jpg",
+            "platform": "AWS Training & Certification",
+            "year": "2025",
+            "description": "This course helped me understand how to monitor AWS resources and applications using Amazon CloudWatch. I learned how to collect metrics, analyze logs, and set alarms to ensure system reliability and performance in real-world cloud environments.",
+            "keypoint1": "✓ CloudWatch Metrics & Logs – Learned to monitor EC2, Lambda, and other AWS services effectively",
+            "keypoint2": "✓ Alarms & Monitoring – Gained hands-on knowledge of setting alarms and troubleshooting system issues"
+        },
+        {
+            "title": "AWS Cloud Practitioner Foundation",
+            "image": "media/Certificates/AWS_Cloud_Practitioner_Foundation.jpg",
+            "platform": "ScholarHat (AWS Aligned)",
+            "year": "2025",
+            "description": "This course built a strong foundation in cloud computing and AWS core services. It improved my understanding of AWS architecture, pricing models, security best practices, and cloud concepts essential for beginner-level cloud roles.",
+            "keypoint1": "✓ AWS Core Services – Understood EC2, S3, RDS, IAM, and global infrastructure",
+            "keypoint2": "✓ Cloud Security & Pricing – Learned shared responsibility model, billing, and cost optimization basics"
+        },
+        {
+            "title": "CyberPeace First Responders & Myth Busters – Induction Training",
+            "image": "media/Certificates/CyberPeace_First_Responders.jpg",
+            "platform": "CyberPeace Foundation (Supported by Google.org & Chandigarh University)",
+            "year": "2025",
+            "description": "This training enhanced my awareness of cybersecurity, misinformation, and digital threats. I gained practical knowledge in identifying cyber harms, AI-generated deepfakes, and strategies to counter online misinformation responsibly.",
+            "keypoint1": "✓ Cybersecurity & Misinformation – Learned detection and mitigation techniques for cyber threats",
+            "keypoint2": "✓ AI & Deepfake Awareness – Gained insights into identifying AI-generated misinformation and digital risks"
         }
-       
+
     ]
 }

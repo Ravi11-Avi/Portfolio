@@ -135,7 +135,7 @@
         "id": 10,
         "category": "Project",
         "title": "Sales Dashboard",
-        "description": "An interactive Streamlit app for visualizing cake sales, comparing products, and tracking trends with customizable themes.",
+        "description": "An interactive Streamlit app for visualizing cake sales, comparing products, and tracking trends.",
         "details":"The Cake Sales Dashboard is an interactive data visualization application built with Python and Streamlit.It provides real-time insights into cake sales performance, helping users monitor total sales, analyze product trends, and compare performance across different time periods.",
         "media": [
             
@@ -149,5 +149,33 @@
         "liveDemo": "https://ravi11-avi-sellesdashboard-app-yscthc.streamlit.app/",
         "languages": ["Python - Streamlit"],
         "github": "https://github.com/Ravi11-Avi/Sellesdashboard"
-    }
+    },
+    {
+        "id": 11,
+        "category": "Project",
+        "title": "Mini Drive ",
+        "description": "A secure cloud storage web application inspired by Google Drive",
+        "details": "While building Mini Drive, I gained hands-on experience in full-stack development, including authentication, file handling, cloud storage integration, and deployment. This project strengthened my understanding of secure user authentication using JWT and OAuth (Google & GitHub), REST API design, AWS S3 file management, and real-world deployment using Vercel and Render.",
+        "media": [
+            { "type": "image", "src": "media/Slider Img/Mini Drive/minidrive1.png" },
+            { "type": "image", "src": "media/Slider Img/Mini Drive/minidrive2.png" },
+            { "type": "image", "src": "media/Slider Img/Mini Drive/minidrive3.png" },
+            { "type": "image", "src": "media/Slider Img/Mini Drive/minidrive4.png" }
+        ],
+        "languages": [
+            "React JS",
+            "Vite",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "AWS S3",
+            "JWT Authentication",
+            "Google OAuth",
+            "GitHub OAuth",
+            "Tailwind CSS"
+        ],
+        "github": "https://github.com/Ravi11-Avi/mini-drive",
+        "liveDemo": "https://mini-drive-phi.vercel.app"
+        }
+
 ]
